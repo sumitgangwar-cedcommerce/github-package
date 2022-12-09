@@ -1,0 +1,19 @@
+{
+  "name": "@sumitgangwar-cedcommerce/github-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitgangwar-cedcommerce/github-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitgangwar-cedcommerce/github-package/issues"
+  },
+  "homepage": "https://github.com/sumitgangwar-cedcommerce/github-package#readme"
+}
