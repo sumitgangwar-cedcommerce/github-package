@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sumitgangwar-cedcommerce/github-package/issues"
   },
-  "homepage": "https://github.com/sumitgangwar-cedcommerce/github-package#readme"
+  "homepage": "https://github.com/sumitgangwar-cedcommerce/github-package#readme",
+  "publishConfig": {
+    "@sumitgangwar-cedcommerce:registry": "https://npm.pkg.github.com"
+  }
 }
